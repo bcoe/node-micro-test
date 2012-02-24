@@ -31,7 +31,7 @@ CLI
 
 Just run the command _micro-test_ from the root directory of your Node.js project.
 
-* npm install micro-test
+* npm install micro-test -g
 * micro-test
 
 Copyright
