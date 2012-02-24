@@ -6,9 +6,9 @@ MicroTest is an asynchronous testing framework built for Node.js. It's under 40 
 Usage
 -----
 
-Create a folder called _test/_ in the root of your project directory.
+Create a folder called __test/__ in the root of your project directory.
 
-Within this folder create JavaScript test files that look like this:
+Within this folder create .js testing files that look like this:
 
 ```javascript
 var equal = require('assert').equal;
