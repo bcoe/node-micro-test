@@ -23,7 +23,7 @@ exports.tests = {
 };
 ```
 
-* __finished__ call this once within your test, to indicate that all asynchronous actions have completed.
+* __finished__ call this within your test, to indicate that all asynchronous actions have completed.
 * __prefix__ contextual information about the test that you can print out with your assertions.
 
 CLI
