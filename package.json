@@ -1,0 +1,25 @@
+{
+  "name": "micro-test",
+  "directories": {
+    "lib": "./lib",
+    "bin": "./bin"
+  },
+  "main": "./lib/index.js",
+  "bin": "./bin/micro-test.js",
+  "version": "1.0.0",
+  "author": "Ben Coe <bencoe@gmail.com>",
+  "engines": [
+    "node"
+  ],
+  "description": "An asynchronous unit testing framework in under 40 lines of code.",
+  "keywords": [
+    "unit",
+    "testing"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bcoe/node-micro-test.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
